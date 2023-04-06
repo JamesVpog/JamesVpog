@@ -7,5 +7,5 @@ I code sometimes, and there is lots of coding sometimes.
 
 Intersts: 
 - NLP applications (natural language processing)
-- r/dataisbeautiful, but not pie charts
+- [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/), but not pie charts
 - learning new things
