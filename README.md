@@ -5,7 +5,7 @@ Contact Info:
 
 I code sometimes, and there is lots of coding sometimes.
 
-Intersts: 
+Interests: 
 - NLP applications (natural language processing)
 - [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/), but not pie charts
 - learning new things
